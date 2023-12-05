@@ -49,3 +49,4 @@ Note2:- Here some supported pictures also attached for better understanding and 
 <img width="840" alt="mvn-1" src="https://github.com/Shahnawaz-yousuf/Maven_project1/assets/146080117/b76f9f0f-15c1-41b9-abe6-b2069dc5f3d3">
 
 
+<img width="686" alt="mvn-2" src="https://github.com/Shahnawaz-yousuf/Maven_project1/assets/146080117/75caca7b-5059-4614-af82-44deed96eb1a">
