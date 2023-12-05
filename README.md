@@ -46,4 +46,6 @@ Step-1: Go to D:\webapp\src\main\java\online\nawazinfotech: file and edit the co
 Step-2: Repeat the above steps from Step-11 to Step-14.
 
 Note2:- Here some supported pictures also attached for better understanding and references:
+<img width="840" alt="mvn-1" src="https://github.com/Shahnawaz-yousuf/Maven_project1/assets/146080117/b76f9f0f-15c1-41b9-abe6-b2069dc5f3d3">
+
 
