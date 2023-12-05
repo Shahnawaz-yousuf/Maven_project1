@@ -37,7 +37,7 @@ Step-14: O/P = Hello Maven (or, "Hello World" - as per the src => App file)
 
 Here the Project gets complete as you created the jar artifact file (webapp-1.0-SNAPSHOT.jar) and able to access it.
 
-<<<<<<=======CONGRATULATIONS You have successfully done this mini Maven-Project=======>>>>>>>>
+<<<===CONGRATULATIONS You have successfully done this mini Maven-Project===>>>
 
 Note1:- "If you want to change the Display content (i,e. "Hello World" to "Hello Maven") can do it by simply following the steps:-
 
